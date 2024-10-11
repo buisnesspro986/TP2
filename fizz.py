@@ -5,7 +5,7 @@ def affiche():
             result.append("FrisBee")
         elif i % 3 == 0:
             result.append("Fizz")
-        elif i % 5 == 0:
+        elif == 0:
             result.append("Buzz")
         else:
             result.append(str(i))
